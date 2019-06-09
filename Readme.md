@@ -1,5 +1,3 @@
-Paper review of "Advancing the Art of Internet Edge Outage Detection" Paper. A part of Internet Security seminar
-
 Paper review of "Advancing the Art of Internet Edge Outage Detection" Paper.
 A part of Internet Security seminar
 
